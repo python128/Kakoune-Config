@@ -1,5 +1,9 @@
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Kakoune-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
 # Kakoune-Config
-My Kakoune text editor's .config file
+My Kakoune text editor's config file(kakrc)
 
 ## Changes
 - I have made <ret> key to write the file (in normal mode), and <c-q> to quit.
