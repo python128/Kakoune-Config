@@ -9,4 +9,6 @@ My Kakoune text editor's .config file
 - Current colorscheme is `desertex`
   
 ## Credits
-Special thanks to andreyorst's powerline.kak, and some other changes.
+Thanks to:
+- @andreyorst for powerline.kak
+- @siddharthagudgunti for the base kakrc file.
