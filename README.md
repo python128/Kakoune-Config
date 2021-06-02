@@ -2,7 +2,9 @@
 ![](https://img.shields.io/badge/Editor-Kakoune-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-# Kakoune-Config ![alt text](Kakoune.jfif)
+![Kakoune Logo](Kakoune.jfif)
+
+# Kakoune-Config 
 My Kakoune text editor's config file(kakrc)
 
 ## Changes
