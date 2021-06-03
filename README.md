@@ -12,7 +12,7 @@ My Kakoune text editor's config file(kakrc)
 - Made scrolloff to 2, 5.
 - Made all spaces as tabs, and each tab is of 4 spaces width.
 - It is based on Powerline.
-- Current colorscheme is `desertex`
+- Current colorscheme is `desertex`, with some of my own modifications.
   
 ## Credits
 Thanks to:
